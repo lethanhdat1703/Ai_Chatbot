@@ -1,0 +1,130 @@
+{
+  "questions": [
+    {
+      "question": "what is capital of France?",
+      "answers": [
+        "Paris",
+        "London",
+        "Rome",
+        "Berlin"
+      ],
+      "correctAnwer": 1
+    },
+    {
+      "question": "what is capital of Germany?",
+      "answers": [
+        "Paris",
+        "London",
+        "Rome",
+        "Berlin"
+      ],
+      "correctAnwer": 3
+    },
+    {
+      "question": "hello",
+      "answer": "hi"
+    },
+    {
+      "question": "hi",
+      "answer": "hi there"
+    },
+    {
+      "question": "Hi",
+      "answer": "Hi!"
+    },
+    {
+      "question": "Hi There!",
+      "answer": "Hi"
+    },
+    {
+      "question": "Ba\u0323n t\u00ean gi\u0300?",
+      "answer": "Xin cha\u0300o t\u00f4i t\u00ean L\u00ea Tha\u0300nh \u0110a\u0323t"
+    },
+    {
+      "question": "Xin cha\u0300o",
+      "answer": "Cha\u0300o ba\u0323n, t\u00f4i t\u00ean L\u00ea Tha\u0300nh \u0110a\u0323t"
+    },
+    {
+      "question": "ba\u0323n co\u0301 kho\u0309e kh\u00f4ng",
+      "answer": "v\u00e2ng t\u00f4i ca\u0309m th\u00e2\u0301y mi\u0300nh \u0111ang r\u00e2\u0301t t\u00f4\u0301t"
+    },
+    {
+      "question": "B\u1ea1n \u0111ang l\u00e0m g\u00ec?",
+      "answer": [
+        "T\u00f4i \u0111ang l\u00e0m vi\u1ec7c.",
+        "T\u00f4i \u0111ang h\u1ecdc.",
+        "T\u00f4i \u0111ang ngh\u1ec9 ng\u01a1i."
+      ]
+    },
+    {
+      "question": "B\u1ea1n \u0111\u00e3 \u0103n ch\u01b0a?",
+      "answer": [
+        "V\u00e2ng, t\u00f4i \u0111\u00e3 \u0103n r\u1ed3i.",
+        "Kh\u00f4ng, t\u00f4i ch\u01b0a \u0103n."
+      ]
+    },
+    {
+      "question": "B\u1ea1n c\u00f3 kh\u1ecfe kh\u00f4ng?",
+      "answer": [
+        "C\u00f3, t\u00f4i kh\u1ecfe.",
+        "Kh\u00f4ng, t\u00f4i kh\u00f4ng c\u1ea3m th\u1ea5y t\u1ed1t l\u1eafm."
+      ]
+    },
+    {
+      "question": "B\u1ea1n c\u00f3 mu\u1ed1n \u0111i \u0111\u00e2u \u0111\u00f3 kh\u00f4ng?",
+      "answer": [
+        "C\u00f3, t\u00f4i mu\u1ed1n \u0111i ch\u01a1i.",
+        "Kh\u00f4ng, t\u00f4i mu\u1ed1n \u1edf nh\u00e0."
+      ]
+    },
+    {
+      "question": "B\u1ea1n th\u00edch l\u00e0m g\u00ec v\u00e0o cu\u1ed1i tu\u1ea7n?",
+      "answer": [
+        "T\u00f4i th\u00edch \u0111i xem phim.",
+        "T\u00f4i th\u00edch \u0111i d\u1ea1o.",
+        "T\u00f4i th\u00edch ngh\u1ec9 ng\u01a1i \u1edf nh\u00e0."
+      ]
+    },
+    {
+      "question": "B\u1ea1n c\u00f3 th\u00edch \u0111\u1ecdc s\u00e1ch kh\u00f4ng?",
+      "answer": [
+        "C\u00f3, t\u00f4i th\u00edch \u0111\u1ecdc s\u00e1ch.",
+        "Kh\u00f4ng, t\u00f4i kh\u00f4ng th\u00edch \u0111\u1ecdc s\u00e1ch l\u1eafm."
+      ]
+    },
+    {
+      "question": "B\u1ea1n \u0111\u00e3 xem b\u1ea5t k\u1ef3 b\u1ed9 phim n\u00e0o g\u1ea7n \u0111\u00e2y kh\u00f4ng?",
+      "answer": [
+        "C\u00f3, t\u00f4i \u0111\u00e3 xem m\u1ed9t b\u1ed9 phim m\u1edbi.",
+        "Kh\u00f4ng, t\u00f4i ch\u01b0a xem b\u1ea5t k\u1ef3 b\u1ed9 phim n\u00e0o m\u1edbi."
+      ]
+    },
+    {
+      "question": "B\u1ea1n l\u00e0m vi\u1ec7c g\u00ec trong ng\u00e0y th\u01b0\u1eddng?",
+      "answer": [
+        "T\u00f4i l\u00e0m vi\u1ec7c.",
+        "T\u00f4i \u0111i h\u1ecdc.",
+        "T\u00f4i ch\u0103m s\u00f3c gia \u0111\u00ecnh."
+      ]
+    },
+    {
+      "question": "B\u1ea1n th\u01b0\u1eddng d\u00f9ng th\u1eddi gian r\u1ea3nh \u0111\u1ec3 l\u00e0m g\u00ec?",
+      "answer": [
+        "T\u00f4i th\u01b0\u1eddng d\u00e0nh th\u1eddi gian r\u1ea3nh \u0111\u1ec3 ch\u01a1i th\u1ec3 thao.",
+        "\u0110\u1ecdc s\u00e1ch.",
+        "Xem phim."
+      ]
+    },
+    {
+      "question": "B\u1ea1n \u0111\u00e3 \u0111i du l\u1ecbch \u0111\u00e2u \u0111\u00f3 g\u1ea7n \u0111\u00e2y kh\u00f4ng?",
+      "answer": [
+        "C\u00f3, t\u00f4i \u0111\u00e3 \u0111i du l\u1ecbch.",
+        "Kh\u00f4ng, t\u00f4i ch\u01b0a \u0111i du l\u1ecbch g\u1ea7n \u0111\u00e2y."
+      ]
+    },
+    {
+      "question": "ba\u0323n co\u0301 bi\u00ea\u0301t ta\u0323 l\u00ea trung hi\u00ea\u0301u kh\u00f4ng?",
+      "answer": "hi\u00ea\u0301u m\u0103\u0323t l\u00f4\u0300n thi\u0300 bi\u00ea\u0301t la\u0300m cc gi\u0300"
+    }
+  ]
+}
